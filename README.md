@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatrickBOKO
-- 👀 I’m interested in Softweare Engineering; Network Security And Musi :)
+- 👀 I’m interested in Software Engineering; Network Security And Music :)
 - 🌱 I’m currently learning ASP.NET Core And working on my  N+ and SEC+.
 - 💞️ I’m looking to collaborate on various IT projects - From Designing to Mantaining. Although I enjoy coding and troubleshooting the most!!
 - 📫 Wanna reach me ?? Mail_Me on GMail || LinkedIn Where (GMail => GMail.Id== Patrickboko.01 || Profile_Link='https://www.linkedin.com/in/patrick-boko-a4aa81209') 
